@@ -173,7 +173,7 @@ body {
 
 .gallery {
     display: flex;
-    gap: 30px;
+    gap: 40px;
     justify-content: center;
 
     @media (max-width: 650px) {
